@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TMDBApp</string>
+
+    <string name="no_connection_title">No connection available</string>
+    <string name="no_connection_message">Please enable data connection</string>
+    <string name="server_not_available">Server not available. Please try again later</string>
+    <string name="authentication_error">Authentication Error</string>
+
+    <string name="obtaining_movies_data">Obtaining Movies Data...</string>
+
+    <string name="search_title">Search</string>
+    <string name="search_hint">Search for a movie...</string>
+
+    <string name="not_available">N/A</string>
+    <string name="close">Close</string>
+</resources>
